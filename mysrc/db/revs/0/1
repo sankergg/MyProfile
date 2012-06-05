@@ -1,0 +1,25 @@
+id: 0-1.0.r1/0
+type: dir
+count: 0
+cpath: /ftp
+copyroot: 0 /
+
+PLAIN
+K 3
+ftp
+V 14
+dir 0-1.0.r1/0
+END
+ENDREP
+id: 0.0.r1/106
+type: dir
+pred: 0.0.r0/17
+count: 1
+text: 1 61 32 32 74b46bdad05bf67a3c0826bf4b606a2f
+cpath: /
+copyroot: 0 /
+
+_0.0.t0-0 add-dir false false /ftp
+
+
+106 230
