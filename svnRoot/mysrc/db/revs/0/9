@@ -1,0 +1,29 @@
+id: 0-9.0.r9/0
+type: dir
+count: 0
+cpath: /nbit
+copyroot: 0 /
+
+PLAIN
+K 3
+ftp
+V 16
+dir 0-1.0.r8/914
+K 4
+nbit
+V 14
+dir 0-9.0.r9/0
+END
+ENDREP
+id: 0.0.r9/138
+type: dir
+pred: 0.0.r8/1097
+count: 9
+text: 9 62 63 63 4fa0e8ed70c25746c5f3922285f8558f
+cpath: /
+copyroot: 0 /
+
+_0.0.t8-8 add-dir false false /nbit
+
+
+138 264
